@@ -4,7 +4,6 @@ I'm Ivan Jaramillo (he/him/his), a software engineer and mechanical engineer.
 I'm currently working on two things:
 
 * a calculator that handles simple arithmetic, but I'd like to make it be 
-
   able to handle linear systems.
 
 * a small walking robot.
