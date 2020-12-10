@@ -16,6 +16,4 @@ to work on rockets, prosthetics, and artificial intelligence.
 
 I'm currently learning combinatorics and graph theory, electronics, and app 
 development. When I'm not learning that or taking classes, I'm at the gym or 
-skateboarding.
-
-Feel free to reach me via email (ivandavilajaramillo@gmail.com).
+skateboarding. Feel free to reach me via email (ivandavilajaramillo@gmail.com).
