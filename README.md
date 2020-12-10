@@ -1,16 +1,22 @@
-### Hi there 👋
+### Welcome
 
-<!--
-**ivan-jaramillo/ivan-jaramillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ivan Jaramillo (he/him/his), a software engineer and mechanical engineer. 
+I'm currently working on two things:
 
-Here are some ideas to get you started:
+* a calculator that handles simple arithmetic, but I'd like to make it be 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  able to handle linear systems.
+
+* a small walking robot.
+
+I'm studying at the College of Wooster where I'm majoring in computer science, 
+and am part of the pre-engineering program where I should be studying at 
+Washington University in St. Louis where I'll be majoring in mechanical 
+engineering. To keep my work interests as general as possible, I would *love* 
+to work on rockets, prosthetics, and artificial intelligence.
+
+I'm currently learning combinatorics and graph theory, electronics, and app 
+development. When I'm not learning that or taking classes, I'm at the gym or 
+skateboarding.
+
+Feel free to reach me via email (ivandavilajaramillo@gmail.com).
