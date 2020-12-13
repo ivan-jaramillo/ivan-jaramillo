@@ -15,5 +15,5 @@ engineering. To keep my work interests as general as possible, I would *love*
 to work on rockets, prosthetics, and artificial intelligence.
 
 I'm currently learning combinatorics and graph theory, electronics, and app 
-development. If you can't find me in class, I'm at the gym or skateboarding. 
+development. If I'm not coding or doing maths, I'm at the gym or skateboarding. 
 Feel free to reach me via email (ivandavilajaramillo@gmail.com).
