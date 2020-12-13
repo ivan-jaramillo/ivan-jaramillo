@@ -1,4 +1,4 @@
-### Welcome
+### What Up
 
 I'm Ivan Jaramillo (he/him/his), a software engineer and mechanical engineer. 
 I'm currently working on two things:
@@ -15,5 +15,5 @@ engineering. To keep my work interests as general as possible, I would *love*
 to work on rockets, prosthetics, and artificial intelligence.
 
 I'm currently learning combinatorics and graph theory, electronics, and app 
-development. When I'm not learning that or taking classes, I'm at the gym or 
-skateboarding. Feel free to reach me via email (ivandavilajaramillo@gmail.com).
+development. If you can't find me in class, I'm at the gym or skateboarding. 
+Feel free to reach me via email (ivandavilajaramillo@gmail.com).
