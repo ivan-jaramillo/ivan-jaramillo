@@ -6,7 +6,7 @@ I'm currently working on two things:
 * a calculator that handles simple arithmetic, but I'd like to make it be 
   able to handle linear systems.
 
-* a small walking robot.
+* a robotic arm not unlike Tony Stark's DUM-E.
 
 I'm studying at the College of Wooster where I'm majoring in computer science, 
 and am part of the pre-engineering program where I should be studying at 
