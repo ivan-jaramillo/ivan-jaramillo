@@ -3,10 +3,9 @@
 I'm Ivan Jaramillo (he/him/his), a software engineer and mechanical engineer. 
 I'm currently working on two things:
 
-* a calculator that handles simple arithmetic, but I'd like to make it be 
-  able to handle linear systems.
+* a perceptron.
 
-* a robotic arm not unlike Tony Stark's DUM-E.
+* a small robot that walks around.
 
 I'm studying at the College of Wooster where I'm majoring in computer science, 
 and am part of the pre-engineering program where I should be studying at 
