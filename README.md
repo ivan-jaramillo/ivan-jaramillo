@@ -1,11 +1,13 @@
 ### What Up
 
 I'm Ivan Jaramillo (he/him/his), a software engineer and mechanical engineer. 
-I'm currently working on two things:
+I'm currently working on three things:
 
-* a perceptron.
+* a neural network aimed at tackling text generation.
 
 * a small robot that walks around.
+
+* a glowing cube the size of your palm.
 
 I'm studying at the College of Wooster where I'm majoring in computer science, 
 and am part of the pre-engineering program where I should be studying at 
