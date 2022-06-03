@@ -4,7 +4,7 @@ I'm Ivan Jaramillo (he/him/his), a software engineer, mechanical engineer, and s
 
 * text generation using a recurrent neural network.
 
-* an app for chemical graph theory.
+* a Halloween costume.
 
 * a tiny robot that walks around.
 
