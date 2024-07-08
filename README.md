@@ -1,11 +1,18 @@
-### What Up
+# Ivan Jaramillo
 
-I'm Ivan Jaramillo (he/him/his), a software engineer, mechanical engineer, and scientist. I'm currently working on a couple of things:
+Welcome! I'm Ivan Jaramillo (he/him/his). I'm a software engineer, mechanical engineer, and materials scientist.
 
-* text generation using a recurrent neural network.
+## Current Projects
 
-* a Halloween costume.
+I love to keep myself busy by learning new things as much as I can. I'm currently working on a couple of things:
 
-* a tiny robot that walks around.
+* facial recognition
+* lenses that reflect facial expressions
 
-I studied computer science and mathematics at the College of Wooster and am now studying mechanical engineering and materal science at Washington University in St. Louis. I'm currently learning electronics and app development. If I'm not coding or doing maths, I'm at the gym or skateboarding. Hit me up on LinkedIn.
+## Hobbies
+
+The mind and body must well-kept to function properly. When I'm not working on a project or studying, I do weight-lifting, American Boxing, Muay Thai, and Brazilian Jiu-Jitsu.
+
+## Education
+
+I studied computer science and mathematics at the College of Wooster from 2018 to 2022. I studied mechanical engineering and materials science at Washington University in St. Louis from 2021 to 2024.
