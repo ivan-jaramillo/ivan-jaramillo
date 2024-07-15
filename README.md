@@ -11,7 +11,7 @@ I love to keep myself busy by learning new things as much as I can. I'm currentl
 
 ## Hobbies
 
-The mind and body must well-kept to function properly. When I'm not working on a project or studying, I do weight-lifting, American Boxing, Muay Thai, and Brazilian Jiu-Jitsu.
+The mind and body must be well-kept to function properly. When I'm not working on a project or studying, I do weight-lifting, American Boxing, Muay Thai, and Brazilian Jiu-Jitsu.
 
 ## Education
 
